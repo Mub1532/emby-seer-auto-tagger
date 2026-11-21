@@ -1,0 +1,6 @@
+export enum TagMode {
+  ALL = "ALL",
+  EXCLUDE_USERS = "EXCLUDE_USERS",
+  ONLY_USERS = "ONLY_USERS",
+  REQUESTER = "REQUESTER",
+}
